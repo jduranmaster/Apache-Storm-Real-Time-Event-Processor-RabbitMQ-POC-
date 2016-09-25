@@ -11,7 +11,7 @@ using a realtime event processor implemented with Apache Storm. This repo can be
 * In Eclipse : File / Import... / Import as a maven project
 
 ## Contact
- * [jduranmaster@gmail.com](mailto:jduranmaster@gmail.com)
+ * [jduranmaster@gmail.com](mailto:jduranmaster@gmail.com) 
 
 ## License 
 Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
