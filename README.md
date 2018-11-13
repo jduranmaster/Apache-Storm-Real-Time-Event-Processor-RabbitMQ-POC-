@@ -5,10 +5,10 @@ using a realtime event processor implemented with Apache Storm. This repo can be
 
 ### How do I get set up? ###
 
-* Clone this repo
-* Execute `mvn install` to download all dependencies and compile
-* Execute `mvn eclipse:eclipse` to generate Eclipse's files
-* In Eclipse : File / Import... / Import as a maven project
+* Clone this repo.
+* Execute `mvn install` to download all dependencies and compile.
+* Execute `mvn eclipse:eclipse` to generate Eclipse's files.
+* In Eclipse : File / Import... / Import as a maven project.
 
 ## Contact
  * [jduranmaster@gmail.com](mailto:jduranmaster@gmail.com) 
